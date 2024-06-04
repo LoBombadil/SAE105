@@ -55,11 +55,6 @@ Ce [script](https://github.com/ytsangue/SAE105_Projet/blob/main/main.py) Python,
 
 ### Installation
 
-Powershell 
-```sh
-git clone https://github.com/ytsangue/SAE105_Projet ; cd SAE105_Projet
-```
-Bash
 ```sh
 git clone https://github.com/ytsangue/SAE105_Projet && cd SAE105_Projet
 ```
